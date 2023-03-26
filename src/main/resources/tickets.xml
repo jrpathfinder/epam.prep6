@@ -1,0 +1,5 @@
+<tickets>
+    <ticket user="1" event="1" category="STANDART" place="..."/>
+<!--    <ticket user="..." event="..." category="..." place="..."/>-->
+<!--    <ticket user="..." event="..." category="..." place="..."/>-->
+</tickets>
